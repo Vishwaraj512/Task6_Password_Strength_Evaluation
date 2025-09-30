@@ -18,7 +18,7 @@ The following test passwords were used to demonstrate the difference between wea
 | Password Description | Length | Complexity | Score/Time to Crack (Example from Screenshot) | Learning Point |
 | :--- | :--- | :--- | :--- | :--- |
 | **Weak Example** | 9 | Low (4, 3) | 3 weeks | Too short, contains common dictionary words. |
-| **Strong Passphrase** | **[14]** | High (1, 9, 3, 1) | **[6055437 Years]** | Length and character diversity are the primary factors in strength. |
+| **Strong Passphrase** | **14** | High (1, 9, 3, 1) | **[6055437 Years]** | Length and character diversity are the primary factors in strength. |
 
 ## ✅ Deliverables (Screenshots)
 
